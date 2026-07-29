@@ -172,7 +172,8 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
-![Screenshot (342)](https://github.com/user-attachments/assets/92f8707a-ac31-40a5-8c94-782b4eccde47)
+<img width="1917" height="1078" alt="Screenshot 2026-07-24 161740" src="https://github.com/user-attachments/assets/87071625-69f1-443c-b7eb-e164c9d75ac5" />
+
 
 ## Fig 6: Nclaunch Window
 
