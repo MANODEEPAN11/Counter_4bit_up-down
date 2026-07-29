@@ -42,7 +42,7 @@ Functional Simulation:
       
 	After this you can see the window like below 
 
-![Screenshot (280)](https://github.com/user-attachments/assets/4844ff32-3190-4693-91f3-429e349125f3)
+<img width="1917" height="1078" alt="Screenshot 2026-07-24 155420" src="https://github.com/user-attachments/assets/d3f12620-a0cc-4e77-b01f-6e66ab33da81" />
 
 ## Fig 2: Invoke the Cadence Environment
 
