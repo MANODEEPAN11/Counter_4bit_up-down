@@ -141,7 +141,7 @@ endmodule
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
 
-![Screenshot (308)](https://github.com/user-attachments/assets/7af7f405-3d5f-4b7f-9afe-b73fb2d268da)
+<img width="1910" height="1078" alt="Screenshot 2026-07-24 155605" src="https://github.com/user-attachments/assets/343c4fd9-8e04-4222-a998-3f91327a020a" />
 
 ## Fig 3: Setting Multi-step simulation
 
