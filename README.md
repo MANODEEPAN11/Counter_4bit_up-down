@@ -244,7 +244,8 @@ It contains statements that map logical library names to their physical director
 
 	Steps for simulation – Run the simulation command with simulator options
 
-![Screenshot (347)](https://github.com/user-attachments/assets/e3168be8-f5a3-49ab-84b7-b8f6a81e4321)
+<img width="1917" height="1078" alt="Screenshot 2026-07-24 162017" src="https://github.com/user-attachments/assets/8560a1cc-474b-4c4c-aa86-3626e8a2db25" />
+
 
 ## Fig 9: Design Browser window for simulation
 
