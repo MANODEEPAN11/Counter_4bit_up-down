@@ -249,7 +249,7 @@ It contains statements that map logical library names to their physical director
 
 ## Fig 9: Design Browser window for simulation
 
-![Screenshot (349)](https://github.com/user-attachments/assets/4827cc87-ca67-4d9c-9bc2-c9b4f7fac13e)
+<img width="1302" height="812" alt="Screenshot 2026-08-09 162259" src="https://github.com/user-attachments/assets/42d31270-9f30-4434-a0d1-2b54f5cc8ecc" />
 
 ## Fig 10: Simulation Waveform Window
 
