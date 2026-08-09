@@ -230,7 +230,7 @@ It contains statements that map logical library names to their physical director
     
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
 
-![Screenshot (316)](https://github.com/user-attachments/assets/e3d259e3-90a6-41dd-84f1-175752747fde)
+<img width="1917" height="1078" alt="Screenshot 2026-07-24 161821" src="https://github.com/user-attachments/assets/d338da23-a2ac-4381-bd48-1c014da789ba" />
 
 ## Fig 8: Elaboration Launch Option
 
